@@ -1,1 +1,1 @@
-# File_Library_in_C
+This is a replica of existing C library. In order to execute this file run the main.c. The main file includes the file.h header file. I have used concept of buffers in order to avoid continous disk read and writes.
